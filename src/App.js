@@ -9,8 +9,7 @@ function App() {
   return (
     // localhost:3000/
     // my-page.com/
-    // testaaaa
-
+    
     <Layout>
       <Routes>
         <Route path="/" element={<AllMeetupsPage />}></Route>
